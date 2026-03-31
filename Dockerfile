@@ -8,4 +8,4 @@ EXPOSE 3002
 
 RUN npm install
 
-CMD node server.js
+CMD ["npm", "start"]
