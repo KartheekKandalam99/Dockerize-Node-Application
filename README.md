@@ -1,2 +1,3 @@
 # Dockerize-Node-Application
-Docker Tutorial - How to Dockerize a hello world Node.js application
+
+Build and Deploy Node.js Application using Docker + GitHub Actions + AWS EC2
