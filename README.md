@@ -13,19 +13,6 @@
 4. AWS EC2 - Cloud compute for hosting the app 
 5. Linux(Ubuntu) - Server Operating System
 
-## **Architecture**
-Developer Pushes Code
-        ↓
-GitHub Repository
-        ↓
-GitHub Actions CI/CD Pipeline
-  - Build Docker Image
-  - Push Image to Docker Hub
-  - Pull the image to AWS EC2 Instance
-        ↓
-Docker Container Running on EC2
-        ↓
-Application Accessible
 
 ## **Steps to Implement**
 1. Launch an EC2 instance (Ubuntu) and create a security group with SSH and custom TCP for the Docker container.
