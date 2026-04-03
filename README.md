@@ -1,5 +1,9 @@
 # **Build and Deploy Node.js Application using Docker + GitHub Actions + AWS EC2**
 
+
+## **Architecture Diagram**
+![Architecture Diagram](./Architecture%20Diagram/20aefb22-cbfe-41c1-ac92-c555f369984b.png)
+
 ## **Core Objectives**
 1. Automate the deployment pipeline
 2. Reduce the manual effort
